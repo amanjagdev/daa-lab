@@ -32,6 +32,7 @@ All work done during the Design and Analysis of Algorithm (PCS-505) Labs are sto
 
 -   Binary Search
 -   Exponential Search
+-   Jump Search
 
 ## Author
 
