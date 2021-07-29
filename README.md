@@ -16,6 +16,8 @@
 -   [About the Project](#about-the-project)
 -   [Weeks](#weeks)
     -   [Week 0](#week-0)
+    -   [Week 1](#week-1)
+    -   [Week 2](#week-2)
 -   [Author](#author)
 
 ## About The Project
@@ -33,6 +35,10 @@ All work done during the Design and Analysis of Algorithm (PCS-505) Labs are sto
 -   Binary Search
 -   Exponential Search
 -   Jump Search
+
+### Week 2
+
+-   Pair Count
 
 ## Author
 
