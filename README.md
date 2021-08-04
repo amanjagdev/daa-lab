@@ -39,6 +39,8 @@ All work done during the Design and Analysis of Algorithm (PCS-505) Labs are sto
 ### Week 2
 
 -   Pair Count
+-   Repeating Element Count
+-   Sorted Sum
 
 ## Author
 
