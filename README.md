@@ -49,6 +49,10 @@ All work done during the Design and Analysis of Algorithm (PCS-505) Labs are sto
 -   Insertion Sort
 -   Selection Sort
 
+### Week 4
+
+-   kth Smallest
+
 ## Author
 
 -   **Aman Kumar Jagdev** - _SEM V - BTech CSE - GEU_ - [Aman Kumar Jagdev](https://github.com/amanajgdev) - \*\*
