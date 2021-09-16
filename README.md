@@ -19,6 +19,8 @@
     -   [Week 1](#week-1)
     -   [Week 2](#week-2)
     -   [Week 3](#week-3)
+    -   [Week 4](#week-4)
+    -   [Week 5](#week-5)
 -   [Author](#author)
 
 ## About The Project
@@ -52,6 +54,14 @@ All work done during the Design and Analysis of Algorithm (PCS-505) Labs are sto
 ### Week 4
 
 -   kth Smallest
+-   Merge Sort
+-   Quick Sort
+
+### Week 5
+
+-   Common Elements
+-   Duplicte Elements
+-   Equal Sum
 
 ## Author
 
