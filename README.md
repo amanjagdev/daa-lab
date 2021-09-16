@@ -65,4 +65,4 @@ All work done during the Design and Analysis of Algorithm (PCS-505) Labs are sto
 
 ## Author
 
--   **Aman Kumar Jagdev** - _SEM V - BTech CSE - GEU_ - [Aman Kumar Jagdev](https://github.com/amanajgdev) - \*\*
+-   **Aman Kumar Jagdev** - _SEM V - BTech CSE - GEU_ - [Aman Kumar Jagdev](https://amanjagdev.now.sh) - \*\*
